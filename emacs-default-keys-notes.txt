@@ -1,5 +1,5 @@
 
-Keys that are by default undefined in Emacs (as determined when running Emacs -Q)
+## Keys that are by default undefined in Emacs (as determined when running Emacs -Q)
 
 C-,
 C-.
@@ -39,8 +39,7 @@ M-<up>
 M-<down>
 
 
-
-Keys that are defined but have lame fxns
+## Keys that are defined but have rarely used functions
 
 M-c capitalize-word
 M-i tab-to-tab-stop
