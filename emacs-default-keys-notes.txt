@@ -1,0 +1,49 @@
+
+Keys that are by default undefined in Emacs (as determined when running Emacs -Q)
+
+C-,
+C-.
+C-;
+C-'
+C-`
+C-<
+C->
+C-?
+C-!
+C-#
+C-$
+C-%
+C-^
+C-*
+C-(
+C-)
+C-=
+C-+
+C-<tab>
+
+<f5>
+<f6>
+<f7>
+<f8>
+<f9>
+<f12>
+
+M-n
+M-p
+M-"
+M-#
+M-*
+M-_
+M-+
+M-<up>
+M-<down>
+
+
+
+Keys that are defined but have lame fxns
+
+M-c capitalize-word
+M-i tab-to-tab-stop
+M-l downcase-word
+M-u upcase-word
+M-<SPC> just-one-space
