@@ -46,3 +46,4 @@ M-i tab-to-tab-stop
 M-l downcase-word
 M-u upcase-word
 M-<SPC> just-one-space
+M-\ delete-horizontal-space
